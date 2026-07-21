@@ -1,0 +1,24 @@
+[
+  {
+    "incident_id": 1,
+    "title": "High error rate #1",
+    "severity": "sev1",
+    "status": "resolved",
+    "started_at": "2024-09-28 06:38:37",
+    "resolved_at": "2024-09-28 08:47:20",
+    "root_cause": "Configuration issue / Resource exhaustion / Bug in code",
+    "services_affected": 1,
+    "assigned_to": "engineer-3"
+  },
+  {
+    "incident_id": 2,
+    "title": "Payment service down #2",
+    "severity": "sev3",
+    "status": "resolved",
+    "started_at": "2025-05-01 00:57:22",
+    "resolved_at": "2025-05-01 04:05:21",
+    "root_cause": "Configuration issue / Resource exhaustion / Bug in code",
+    "services_affected": 2,
+    "assigned_to": "engineer-2"
+  }
+]

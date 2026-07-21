@@ -1,0 +1,122 @@
+[
+  {
+    "error_id": 1,
+    "timestamp": "2025-05-25 02:49:36",
+    "service_id": 2,
+    "server_id": 13,
+    "error_type": "AuthenticationError",
+    "error_message": "Error occurred in auth-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:391)",
+    "severity": "critical",
+    "is_resolved": true,
+    "resolved_at": "2026-01-24 13:23:09"
+  },
+  {
+    "error_id": 2,
+    "timestamp": "2024-03-20 19:42:46",
+    "service_id": 6,
+    "server_id": 8,
+    "error_type": "RateLimitExceeded",
+    "error_message": "Error occurred in email-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:157)",
+    "severity": "critical",
+    "is_resolved": true,
+    "resolved_at": "2024-01-18 23:04:36"
+  },
+  {
+    "error_id": 3,
+    "timestamp": "2024-09-14 00:39:55",
+    "service_id": 12,
+    "server_id": 10,
+    "error_type": "ValidationError",
+    "error_message": "Error occurred in notification-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:373)",
+    "severity": "error",
+    "is_resolved": true,
+    "resolved_at": "2026-07-03 18:51:13"
+  },
+  {
+    "error_id": 4,
+    "timestamp": "2025-05-16 13:30:48",
+    "service_id": 5,
+    "server_id": 4,
+    "error_type": "OutOfMemory",
+    "error_message": "Error occurred in shipping-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:339)",
+    "severity": "critical",
+    "is_resolved": false,
+    "resolved_at": "2024-01-08 04:53:42"
+  },
+  {
+    "error_id": 5,
+    "timestamp": "2024-01-26 22:49:03",
+    "service_id": 8,
+    "server_id": 2,
+    "error_type": "NullPointerException",
+    "error_message": "Error occurred in order-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:108)",
+    "severity": "warning",
+    "is_resolved": true,
+    "resolved_at": null
+  },
+  {
+    "error_id": 6,
+    "timestamp": "2026-04-04 12:57:03",
+    "service_id": 8,
+    "server_id": 9,
+    "error_type": "ValidationError",
+    "error_message": "Error occurred in inventory-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:240)",
+    "severity": "warning",
+    "is_resolved": true,
+    "resolved_at": null
+  },
+  {
+    "error_id": 7,
+    "timestamp": "2024-01-24 23:13:30",
+    "service_id": 7,
+    "server_id": 3,
+    "error_type": "ValidationError",
+    "error_message": "Error occurred in order-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:77)",
+    "severity": "error",
+    "is_resolved": true,
+    "resolved_at": null
+  },
+  {
+    "error_id": 8,
+    "timestamp": "2026-03-31 00:36:30",
+    "service_id": 3,
+    "server_id": 1,
+    "error_type": "NullPointerException",
+    "error_message": "Error occurred in user-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:239)",
+    "severity": "critical",
+    "is_resolved": true,
+    "resolved_at": "2026-07-19 10:23:04"
+  },
+  {
+    "error_id": 9,
+    "timestamp": "2024-06-21 16:36:50",
+    "service_id": 12,
+    "server_id": 10,
+    "error_type": "OutOfMemory",
+    "error_message": "Error occurred in shipping-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:315)",
+    "severity": "error",
+    "is_resolved": false,
+    "resolved_at": "2025-02-18 05:34:19"
+  },
+  {
+    "error_id": 10,
+    "timestamp": "2024-04-06 18:26:56",
+    "service_id": 10,
+    "server_id": 7,
+    "error_type": "AuthenticationError",
+    "error_message": "Error occurred in email-service",
+    "stack_trace": "at com.company.service.Handler.process(Handler.java:459)",
+    "severity": "critical",
+    "is_resolved": true,
+    "resolved_at": "2024-10-29 16:43:07"
+  }
+]

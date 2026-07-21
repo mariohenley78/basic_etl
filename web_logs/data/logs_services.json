@@ -1,0 +1,134 @@
+[
+  {
+    "service_id": 1,
+    "service_name": "api-gateway",
+    "description": "Microservice for api gateway",
+    "team": "Data",
+    "language": "Java",
+    "repository_url": "https://github.com/company/api-gateway",
+    "current_version": "2.8.17",
+    "is_critical": false,
+    "created_at": "2022-05-28"
+  },
+  {
+    "service_id": 2,
+    "service_name": "user-service",
+    "description": "Microservice for user service",
+    "team": "Data",
+    "language": "Java",
+    "repository_url": "https://github.com/company/user-service",
+    "current_version": "2.4.13",
+    "is_critical": true,
+    "created_at": "2022-12-16"
+  },
+  {
+    "service_id": 3,
+    "service_name": "order-service",
+    "description": "Microservice for order service",
+    "team": "Infrastructure",
+    "language": "Java",
+    "repository_url": "https://github.com/company/order-service",
+    "current_version": "2.3.2",
+    "is_critical": true,
+    "created_at": "2023-12-23"
+  },
+  {
+    "service_id": 4,
+    "service_name": "payment-service",
+    "description": "Microservice for payment service",
+    "team": "Platform",
+    "language": "Java",
+    "repository_url": "https://github.com/company/payment-service",
+    "current_version": "5.8.18",
+    "is_critical": false,
+    "created_at": "2021-07-25"
+  },
+  {
+    "service_id": 5,
+    "service_name": "inventory-service",
+    "description": "Microservice for inventory service",
+    "team": "Checkout",
+    "language": "Node.js",
+    "repository_url": "https://github.com/company/inventory-service",
+    "current_version": "3.3.2",
+    "is_critical": true,
+    "created_at": "2020-11-05"
+  },
+  {
+    "service_id": 6,
+    "service_name": "notification-service",
+    "description": "Microservice for notification service",
+    "team": "Infrastructure",
+    "language": "Java",
+    "repository_url": "https://github.com/company/notification-service",
+    "current_version": "2.2.4",
+    "is_critical": true,
+    "created_at": "2021-02-18"
+  },
+  {
+    "service_id": 7,
+    "service_name": "auth-service",
+    "description": "Microservice for auth service",
+    "team": "Checkout",
+    "language": "Java",
+    "repository_url": "https://github.com/company/auth-service",
+    "current_version": "3.6.18",
+    "is_critical": false,
+    "created_at": "2020-07-18"
+  },
+  {
+    "service_id": 8,
+    "service_name": "analytics-service",
+    "description": "Microservice for analytics service",
+    "team": "Growth",
+    "language": "Rust",
+    "repository_url": "https://github.com/company/analytics-service",
+    "current_version": "1.8.11",
+    "is_critical": false,
+    "created_at": "2021-11-18"
+  },
+  {
+    "service_id": 9,
+    "service_name": "search-service",
+    "description": "Microservice for search service",
+    "team": "Growth",
+    "language": "Java",
+    "repository_url": "https://github.com/company/search-service",
+    "current_version": "2.6.6",
+    "is_critical": false,
+    "created_at": "2020-04-30"
+  },
+  {
+    "service_id": 10,
+    "service_name": "recommendation-service",
+    "description": "Microservice for recommendation service",
+    "team": "Growth",
+    "language": "Rust",
+    "repository_url": "https://github.com/company/recommendation-service",
+    "current_version": "4.5.15",
+    "is_critical": true,
+    "created_at": "2022-01-29"
+  },
+  {
+    "service_id": 11,
+    "service_name": "shipping-service",
+    "description": "Microservice for shipping service",
+    "team": "Growth",
+    "language": "Python",
+    "repository_url": "https://github.com/company/shipping-service",
+    "current_version": "4.0.7",
+    "is_critical": false,
+    "created_at": "2023-05-12"
+  },
+  {
+    "service_id": 12,
+    "service_name": "email-service",
+    "description": "Microservice for email service",
+    "team": "Checkout",
+    "language": "Python",
+    "repository_url": "https://github.com/company/email-service",
+    "current_version": "1.0.17",
+    "is_critical": true,
+    "created_at": "2022-06-01"
+  }
+]

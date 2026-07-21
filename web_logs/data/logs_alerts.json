@@ -1,0 +1,42 @@
+[
+  {
+    "alert_id": 1,
+    "rule_id": 7,
+    "triggered_at": "2024-07-29 18:04:37",
+    "resolved_at": "2024-07-29 19:44:56",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 2,
+    "rule_id": 19,
+    "triggered_at": "2025-08-17 05:24:55",
+    "resolved_at": null,
+    "status": "firing",
+    "acknowledged_by": "engineer-2"
+  },
+  {
+    "alert_id": 3,
+    "rule_id": 20,
+    "triggered_at": "2025-12-18 01:48:22",
+    "resolved_at": "2025-12-18 03:43:06",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 4,
+    "rule_id": 2,
+    "triggered_at": "2025-05-09 03:20:05",
+    "resolved_at": "2025-05-09 04:14:03",
+    "status": "resolved",
+    "acknowledged_by": null
+  },
+  {
+    "alert_id": 5,
+    "rule_id": 16,
+    "triggered_at": "2025-03-22 08:35:40",
+    "resolved_at": "2025-03-22 10:15:02",
+    "status": "resolved",
+    "acknowledged_by": "engineer-7"
+  }
+]
