@@ -1,0 +1,2 @@
+product_id,sku,product_name,description,category_id,brand_id,supplier_id,price,cost,weight_kg,is_active,created_at,updated_at
+21,SKU-0000021,Básico Equipo 21,Descripción detallada del producto 1,2,10,8,554,207.49,11.3,TRUE,2022-09-19,2026-06-17
