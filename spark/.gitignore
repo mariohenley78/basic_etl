@@ -1,4 +1,6 @@
 # .gitignore
+env
+venv
 .venv/
 .env
 postgres_data/
