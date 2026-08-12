@@ -1,0 +1,3 @@
+{"event_id": "E10", "event_name": "login", "user_id": 12}
+{"event_id": "E11", "event_name": "click_button", "user_id": 45}
+{"event_id": "E12", "event_name": "logout", "user_id": 12}
